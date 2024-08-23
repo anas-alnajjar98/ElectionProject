@@ -1,0 +1,1153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\user\\partyelections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\user\\partyelections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\locallists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\locallists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|c:\\users\\orange\\desktop\\election_projectfor_me\\election_projectfor_me\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\result\\tableoflist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\result\\tableoflist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\result\\listofcandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\result\\listofcandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\result\\electionsareas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\result\\electionsareas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\resultadmin\\listofcandidatesadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\resultadmin\\listofcandidatesadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\resultadmin\\listadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\resultadmin\\listadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\resultadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\resultadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\user\\loginuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\user\\loginuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|c:\\users\\orange\\desktop\\election_projectfor_me\\election_projectfor_me\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\locallistcandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\locallistcandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\assets\\js\\countdown.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\assets\\js\\countdown.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\user\\typeofelection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\user\\typeofelection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|c:\\users\\orange\\desktop\\election_projectfor_me\\election_projectfor_me\\views\\user\\localelections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\user\\localelections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\admin\\loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\admin\\loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\admin\\newadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\admin\\newadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\result\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\result\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\locallistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\locallistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates\\joinmeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates\\joinmeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\locallistcandidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\locallistcandidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\admin\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\admin\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\generallistings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\generallistings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\admin\\adddate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\admin\\adddate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\generallistcandidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\generallistcandidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\models\\election.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\models\\election.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\resultadmin\\electionsareasadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\resultadmin\\electionsareasadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\adminlogin\\css\\fontawesome-all.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\adminlogin\\css\\fontawesome-all.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\adminlogin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\adminlogin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\locallists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\locallists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\locallistcandidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\locallistcandidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\advertisement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\advertisement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\advertisement\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\advertisement\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\debates1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\debates1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\debatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\debatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\models\\electionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\models\\electionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\models\\generallistcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\models\\generallistcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\resultadmin\\tableoflistadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\resultadmin\\tableoflistadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\generallistcandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\generallistcandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\generallistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\generallistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\generallistings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\generallistings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\generallistcandidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\generallistcandidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\assets\\images\\default.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\assets\\images\\default.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\assets\\flip\\flip.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\assets\\flip\\flip.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\assets\\flip\\flip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\assets\\flip\\flip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\assets\\css\\counter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\assets\\css\\counter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\home\\useriformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\home\\useriformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\models\\contactformmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\models\\contactformmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\election_projectfor_me\\views\\debates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D2B6AF4-4ACB-49D1-97EF-4B25D8F73476}|Election_projectFor_me\\Election_projectFor_me.csproj|solutionrelative:election_projectfor_me\\views\\debates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListOfCandidates.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Result\\ListOfCandidates.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Result\\ListOfCandidates.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Result\\ListOfCandidates.cshtml*",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Result\\ListOfCandidates.cshtml*",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAQwKAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T15:07:08.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElectionsAreas.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Result\\ElectionsAreas.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Result\\ElectionsAreas.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Result\\ElectionsAreas.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Result\\ElectionsAreas.cshtml",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwGQAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T14:13:36.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableOfList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Result\\TableOfList.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Result\\TableOfList.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Result\\TableOfList.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Result\\TableOfList.cshtml",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAQwG4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:44:01.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADsBAAAAAAAAAAAAAEYBAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T15:37:37.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\LocalLists\\Create.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\LocalLists\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\LocalLists\\Create.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\LocalLists\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T14:11:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartyElections.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\PartyElections.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\USER\\PartyElections.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\PartyElections.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\USER\\PartyElections.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGoAAAD/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:58:18.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListOfCandidatesAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\ResultAdmin\\ListOfCandidatesAdmin.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\ResultAdmin\\ListOfCandidatesAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\ResultAdmin\\ListOfCandidatesAdmin.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\ResultAdmin\\ListOfCandidatesAdmin.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAKMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T14:23:51.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\ResultAdmin\\ListAdmin.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\ResultAdmin\\ListAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\ResultAdmin\\ListAdmin.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\ResultAdmin\\ListAdmin.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T14:20:43.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\ResultAdminController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\ResultAdminController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\ResultAdminController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\ResultAdminController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:18:16.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\LoginUser.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\USER\\LoginUser.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\LoginUser.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\USER\\LoginUser.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:40:00.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\Login.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\USER\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\Login.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\USER\\Login.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T07:28:17.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocalListCandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\LocalListCandidatesController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\LocalListCandidatesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\LocalListCandidatesController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\LocalListCandidatesController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwGkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:35:26.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "USERController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\USERController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\USERController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\USERController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\USERController.cs",
+              "ViewState": "AQIAAEMBAAAAAAAAAAAmwMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:15:43.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "countdown.js",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\js\\countdown.js",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\assets\\js\\countdown.js",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\js\\countdown.js",
+              "RelativeToolTip": "Election_projectFor_me\\assets\\js\\countdown.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-21T21:40:32.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TypeOfElection.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\TypeOfElection.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\USER\\TypeOfElection.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\TypeOfElection.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\USER\\TypeOfElection.cshtml",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAAJAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:49:13.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAewCkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T15:36:22.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T13:53:32.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Index.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Index.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAIwIIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:26:49.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAABcBAAAAAAAAAAAAABkBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:14:20.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LocalElections.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\LocalElections.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\USER\\LocalElections.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\USER\\LocalElections.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\USER\\LocalElections.cshtml",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAQwIAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T05:44:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAkwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:22:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResultController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\ResultController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\ResultController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\ResultController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\ResultController.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAIwPMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:26:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\LoginAdmin.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Admin\\LoginAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\LoginAdmin.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Admin\\LoginAdmin.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:06:33.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "newAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\newAdmin.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Admin\\newAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\newAdmin.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Admin\\newAdmin.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T19:21:03.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Result\\List.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Result\\List.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Result\\List.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Result\\List.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T14:37:11.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\LocalListCandidates\\Create.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\LocalListCandidates\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\LocalListCandidates\\Create.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\LocalListCandidates\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T08:43:48.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LocalListsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\LocalListsController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\LocalListsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\LocalListsController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\LocalListsController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAlwEoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:36:14.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEYAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T11:57:18.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Index.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:08:12.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JoinMeeting.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\JoinMeeting.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates\\JoinMeeting.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\JoinMeeting.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates\\JoinMeeting.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T13:59:31.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\Home.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Admin\\Home.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\Home.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Admin\\Home.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T17:49:17.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:11:17.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:38:05.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\GeneralListCandidates\\Create.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\GeneralListCandidates\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\GeneralListCandidates\\Create.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\GeneralListCandidates\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T08:37:36.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddDate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\AddDate.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Admin\\AddDate.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Admin\\AddDate.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Admin\\AddDate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T18:38:50.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\GeneralListings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\GeneralListings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\GeneralListings\\Create.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\GeneralListings\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T14:04:53.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Election.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Models\\Election.edmx",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Models\\Election.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Models\\Election.edmx [Diagram1]",
+              "RelativeToolTip": "Election_projectFor_me\\Models\\Election.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-20T12:12:58.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ElectionsAreasAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\ResultAdmin\\ElectionsAreasAdmin.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\ResultAdmin\\ElectionsAreasAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\ResultAdmin\\ElectionsAreasAdmin.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\ResultAdmin\\ElectionsAreasAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T14:22:45.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\LocalListCandidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\LocalListCandidates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\LocalListCandidates\\Index.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\LocalListCandidates\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:18:45.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Advertisement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Advertisement\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Advertisement\\Create.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Advertisement\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T16:40:14.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\LocalLists\\Index.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\LocalLists\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\LocalLists\\Index.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\LocalLists\\Index.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAG8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:18:39.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Payment\\Success.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Payment\\Success.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Payment\\Success.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Payment\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:22:04.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "fontawesome-all.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\adminLogin\\css\\fontawesome-all.css",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\adminLogin\\css\\fontawesome-all.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\adminLogin\\css\\fontawesome-all.css",
+              "RelativeToolTip": "Election_projectFor_me\\adminLogin\\css\\fontawesome-all.css",
+              "ViewState": "AQIAAP4NAAAAAAAAAAAcwB0OAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T15:09:52.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\adminLogin\\css\\style.css",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\adminLogin\\css\\style.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\adminLogin\\css\\style.css",
+              "RelativeToolTip": "Election_projectFor_me\\adminLogin\\css\\style.css",
+              "ViewState": "AQIAAOYBAAAAAAAAAAAcwIkCAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T15:10:26.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates1\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Edit.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates1\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:07:20.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Advertisement\\Payment.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Advertisement\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Advertisement\\Payment.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Advertisement\\Payment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:22:21.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Create.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Create.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates1\\Create.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:05:18.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates1\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Delete.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates1\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:06:04.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Details.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates1\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates1\\Details.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates1\\Details.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwEgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:06:32.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Debates1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\Debates1Controller.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\Debates1Controller.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\Debates1Controller.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\Debates1Controller.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwDAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:02:55.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DebatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\DebatesController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\DebatesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\DebatesController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\DebatesController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAqwH0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:06:11.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ElectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Models\\ElectionService.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Models\\ElectionService.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Models\\ElectionService.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Models\\ElectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:10:10.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GeneralListCandidate.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Models\\GeneralListCandidate.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Models\\GeneralListCandidate.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Models\\GeneralListCandidate.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Models\\GeneralListCandidate.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:02:03.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TableOfListAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\ResultAdmin\\TableOfListAdmin.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\ResultAdmin\\TableOfListAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\ResultAdmin\\TableOfListAdmin.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\ResultAdmin\\TableOfListAdmin.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAADgv2sAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T14:26:31.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GeneralListCandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\GeneralListCandidatesController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\GeneralListCandidatesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\GeneralListCandidatesController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\GeneralListCandidatesController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwEEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:04:44.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GeneralListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\GeneralListingsController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\GeneralListingsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\GeneralListingsController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\GeneralListingsController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAlwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:31:55.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\GeneralListings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\GeneralListings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\GeneralListings\\Index.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\GeneralListings\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:16:15.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\GeneralListCandidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\GeneralListCandidates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\GeneralListCandidates\\Index.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\GeneralListCandidates\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T20:59:39.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "default.png",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\images\\default.png",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\assets\\images\\default.png",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\images\\default.png",
+              "RelativeToolTip": "Election_projectFor_me\\assets\\images\\default.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-21T11:42:09.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Election_projectFor_me\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAApwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:35:08.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "counter.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\css\\counter.css",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\assets\\css\\counter.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\css\\counter.css",
+              "RelativeToolTip": "Election_projectFor_me\\assets\\css\\counter.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T07:33:58.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "flip.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\flip\\flip.css",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\assets\\flip\\flip.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\flip\\flip.css",
+              "RelativeToolTip": "Election_projectFor_me\\assets\\flip\\flip.css",
+              "ViewState": "AQIAAHkBAAAAAAAAAAAYwM4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T08:02:19.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "flip.js",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\flip\\flip.js",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\assets\\flip\\flip.js",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\assets\\flip\\flip.js",
+              "RelativeToolTip": "Election_projectFor_me\\assets\\flip\\flip.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALIFAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-21T08:03:09.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Useriformation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Home\\Useriformation.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Home\\Useriformation.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Home\\Useriformation.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Home\\Useriformation.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAQwGQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T17:48:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ContactFormModel .cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Models\\ContactFormModel .cs",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Models\\ContactFormModel .cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Models\\ContactFormModel .cs",
+              "RelativeToolTip": "Election_projectFor_me\\Models\\ContactFormModel .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:36:01.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Create.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Create.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates\\Create.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T12:20:29.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Edit.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:25:46.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Details.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Details.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates\\Details.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:25:07.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Election_projectFor_me\\Views\\Debates\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election_projectFor_me\\Election_projectFor_me\\Views\\Debates\\Delete.cshtml",
+              "RelativeToolTip": "Election_projectFor_me\\Views\\Debates\\Delete.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T12:26:30.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
